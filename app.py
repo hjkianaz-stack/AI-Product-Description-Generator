@@ -609,9 +609,9 @@ body {
 
     font-weight: 800 !important;
 
-    color: #FFFFFF !important;
+    color: #000000 !important;
 
-    -webkit-text-fill-color: #FFFFFF !important;
+    -webkit-text-fill-color: #000000 !important;
 
     margin-bottom: 12px !important;
 }
@@ -621,9 +621,11 @@ body {
 
     line-height: 2 !important;
 
-    color: #FFFFFF !important;
+    color: #000000 !important;
 
-    opacity: 0.9 !important;
+    -webkit-text-fill-color: #000000 !important;
+
+    opacity: 1 !important;
 }
 
 
